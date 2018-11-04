@@ -1,0 +1,14 @@
+c:\users\aliu\source\repos\TestWebAppV2\TestProj\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+c:\users\aliu\source\repos\TestWebAppV2\TestProj\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+c:\users\aliu\source\repos\TestWebAppV2\TestProj\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+c:\users\aliu\source\repos\TestWebAppV2\TestProj\bin\Debug\TestProj.dll
+c:\users\aliu\source\repos\TestWebAppV2\TestProj\bin\Debug\TestProj.pdb
+c:\users\aliu\source\repos\TestWebAppV2\TestProj\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+c:\users\aliu\source\repos\TestWebAppV2\TestProj\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+c:\users\aliu\source\repos\TestWebAppV2\TestProj\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+c:\users\aliu\source\repos\TestWebAppV2\TestProj\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+c:\users\aliu\source\repos\TestWebAppV2\TestProj\obj\Debug\TestProj.csprojAssemblyReference.cache
+c:\users\aliu\source\repos\TestWebAppV2\TestProj\obj\Debug\TestProj.csproj.CoreCompileInputs.cache
+c:\users\aliu\source\repos\TestWebAppV2\TestProj\obj\Debug\TestProj.csproj.CopyComplete
+c:\users\aliu\source\repos\TestWebAppV2\TestProj\obj\Debug\TestProj.dll
+c:\users\aliu\source\repos\TestWebAppV2\TestProj\obj\Debug\TestProj.pdb

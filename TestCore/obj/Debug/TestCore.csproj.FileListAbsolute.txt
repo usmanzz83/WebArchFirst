@@ -1,0 +1,12 @@
+c:\users\aliu\source\repos\TestWebAppV2\TestCore\bin\Debug\TestCore.dll.config
+c:\users\aliu\source\repos\TestWebAppV2\TestCore\bin\Debug\TestCore.dll
+c:\users\aliu\source\repos\TestWebAppV2\TestCore\bin\Debug\TestCore.pdb
+c:\users\aliu\source\repos\TestWebAppV2\TestCore\bin\Debug\EntityFramework.dll
+c:\users\aliu\source\repos\TestWebAppV2\TestCore\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\aliu\source\repos\TestWebAppV2\TestCore\bin\Debug\EntityFramework.xml
+c:\users\aliu\source\repos\TestWebAppV2\TestCore\bin\Debug\EntityFramework.SqlServer.xml
+c:\users\aliu\source\repos\TestWebAppV2\TestCore\obj\Debug\TestCore.csproj.CoreCompileInputs.cache
+c:\users\aliu\source\repos\TestWebAppV2\TestCore\obj\Debug\TestCore.csproj.CopyComplete
+c:\users\aliu\source\repos\TestWebAppV2\TestCore\obj\Debug\TestCore.dll
+c:\users\aliu\source\repos\TestWebAppV2\TestCore\obj\Debug\TestCore.pdb
+c:\users\aliu\source\repos\TestWebAppV2\TestCore\obj\Debug\TestCore.csprojAssemblyReference.cache

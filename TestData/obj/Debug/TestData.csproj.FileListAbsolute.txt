@@ -1,0 +1,13 @@
+c:\users\aliu\source\repos\TestWebAppV2\TestData\bin\Debug\TestData.dll.config
+c:\users\aliu\source\repos\TestWebAppV2\TestData\bin\Debug\TestData.dll
+c:\users\aliu\source\repos\TestWebAppV2\TestData\bin\Debug\TestData.pdb
+c:\users\aliu\source\repos\TestWebAppV2\TestData\bin\Debug\EntityFramework.dll
+c:\users\aliu\source\repos\TestWebAppV2\TestData\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\aliu\source\repos\TestWebAppV2\TestData\bin\Debug\EntityFramework.xml
+c:\users\aliu\source\repos\TestWebAppV2\TestData\bin\Debug\EntityFramework.SqlServer.xml
+c:\users\aliu\source\repos\TestWebAppV2\TestData\obj\Debug\TestData.Migrations.InitialMigration.resources
+c:\users\aliu\source\repos\TestWebAppV2\TestData\obj\Debug\TestData.csproj.GenerateResource.cache
+c:\users\aliu\source\repos\TestWebAppV2\TestData\obj\Debug\TestData.csproj.CoreCompileInputs.cache
+c:\users\aliu\source\repos\TestWebAppV2\TestData\obj\Debug\TestData.csproj.CopyComplete
+c:\users\aliu\source\repos\TestWebAppV2\TestData\obj\Debug\TestData.dll
+c:\users\aliu\source\repos\TestWebAppV2\TestData\obj\Debug\TestData.pdb
