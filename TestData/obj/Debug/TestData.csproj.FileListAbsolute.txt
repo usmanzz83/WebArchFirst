@@ -11,3 +11,16 @@ c:\users\aliu\source\repos\TestWebAppV2\TestData\obj\Debug\TestData.csproj.CoreC
 c:\users\aliu\source\repos\TestWebAppV2\TestData\obj\Debug\TestData.csproj.CopyComplete
 c:\users\aliu\source\repos\TestWebAppV2\TestData\obj\Debug\TestData.dll
 c:\users\aliu\source\repos\TestWebAppV2\TestData\obj\Debug\TestData.pdb
+C:\Users\3578\source\repos\usmanzz83\usmanzz83\WebArchFirst\TestData\bin\Debug\TestData.dll.config
+C:\Users\3578\source\repos\usmanzz83\usmanzz83\WebArchFirst\TestData\bin\Debug\TestData.dll
+C:\Users\3578\source\repos\usmanzz83\usmanzz83\WebArchFirst\TestData\bin\Debug\TestData.pdb
+C:\Users\3578\source\repos\usmanzz83\usmanzz83\WebArchFirst\TestData\bin\Debug\EntityFramework.dll
+C:\Users\3578\source\repos\usmanzz83\usmanzz83\WebArchFirst\TestData\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\3578\source\repos\usmanzz83\usmanzz83\WebArchFirst\TestData\bin\Debug\EntityFramework.xml
+C:\Users\3578\source\repos\usmanzz83\usmanzz83\WebArchFirst\TestData\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\3578\source\repos\usmanzz83\usmanzz83\WebArchFirst\TestData\obj\Debug\TestData.Migrations.InitialMigration.resources
+C:\Users\3578\source\repos\usmanzz83\usmanzz83\WebArchFirst\TestData\obj\Debug\TestData.csproj.GenerateResource.Cache
+C:\Users\3578\source\repos\usmanzz83\usmanzz83\WebArchFirst\TestData\obj\Debug\TestData.csproj.CoreCompileInputs.cache
+C:\Users\3578\source\repos\usmanzz83\usmanzz83\WebArchFirst\TestData\obj\Debug\TestData.dll
+C:\Users\3578\source\repos\usmanzz83\usmanzz83\WebArchFirst\TestData\obj\Debug\TestData.pdb
+C:\Users\3578\source\repos\usmanzz83\usmanzz83\WebArchFirst\TestData\obj\Debug\TestData.csprojResolveAssemblyReference.cache

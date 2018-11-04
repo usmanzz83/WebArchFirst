@@ -13,25 +13,28 @@ namespace TestWebApp.Controllers
 {
     public class HomeController : Controller
     {
+        public ICategories oCatRep;
+
+        public HomeController(ICategories db)
+        {
+            this.oCatRep = db;
+        }
+
         public ActionResult Index()
         {
-            ICategories oCat;
-            CategoriesRepository  occ = new CategoriesRepository();
-           
-            return View();
+            IEnumerable<Category> lstCategories = oCatRep.GetAll().ToList();
+            return View(lstCategories);
         }
 
         public ActionResult About()
         {
             ViewBag.Message = "Your application description page.";
-
             return View();
         }
 
         public ActionResult Contact()
         {
             ViewBag.Message = "Your contact page.";
-
             return View();
         }
     }

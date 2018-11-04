@@ -10,3 +10,13 @@ c:\users\aliu\source\repos\TestWebAppV2\TestCore\obj\Debug\TestCore.csproj.CopyC
 c:\users\aliu\source\repos\TestWebAppV2\TestCore\obj\Debug\TestCore.dll
 c:\users\aliu\source\repos\TestWebAppV2\TestCore\obj\Debug\TestCore.pdb
 c:\users\aliu\source\repos\TestWebAppV2\TestCore\obj\Debug\TestCore.csprojAssemblyReference.cache
+C:\Users\3578\source\repos\usmanzz83\usmanzz83\WebArchFirst\TestCore\bin\Debug\TestCore.dll.config
+C:\Users\3578\source\repos\usmanzz83\usmanzz83\WebArchFirst\TestCore\bin\Debug\TestCore.dll
+C:\Users\3578\source\repos\usmanzz83\usmanzz83\WebArchFirst\TestCore\bin\Debug\TestCore.pdb
+C:\Users\3578\source\repos\usmanzz83\usmanzz83\WebArchFirst\TestCore\bin\Debug\EntityFramework.dll
+C:\Users\3578\source\repos\usmanzz83\usmanzz83\WebArchFirst\TestCore\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\3578\source\repos\usmanzz83\usmanzz83\WebArchFirst\TestCore\bin\Debug\EntityFramework.xml
+C:\Users\3578\source\repos\usmanzz83\usmanzz83\WebArchFirst\TestCore\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\3578\source\repos\usmanzz83\usmanzz83\WebArchFirst\TestCore\obj\Debug\TestCore.csproj.CoreCompileInputs.cache
+C:\Users\3578\source\repos\usmanzz83\usmanzz83\WebArchFirst\TestCore\obj\Debug\TestCore.dll
+C:\Users\3578\source\repos\usmanzz83\usmanzz83\WebArchFirst\TestCore\obj\Debug\TestCore.pdb
